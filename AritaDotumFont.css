@@ -3,7 +3,7 @@
 	font-weight: 100;
 	font-style: normal;
 	font-display: swap;
-	src: url('https://cdn.jsdelivr.net/gh/yoohg1017/nstay-test@master/font/AritaDotumThin.woff') format('woff');
+	src: url('https://cdn.jsdelivr.net/gh/yoohg1017/test@master/font/AritaDotumThin.woff') format('woff');
 }
 
 @font-face {
@@ -11,7 +11,7 @@
 	font-weight: 300;
 	font-style: normal;
 	font-display: swap;
-	src: url('https://cdn.jsdelivr.net/gh/yoohg1017/nstay-test@master/font/AritaDotumLight.woff') format('woff');
+	src: url('https://cdn.jsdelivr.net/gh/yoohg1017/test@master/font/AritaDotumLight.woff') format('woff');
 }
 
 @font-face {
@@ -19,7 +19,7 @@
 	font-weight: 500;
 	font-style: normal;
 	font-display: swap;
-	src: url('https://cdn.jsdelivr.net/gh/yoohg1017/nstay-test@master/font/AritaDotumMedium.woff') format('woff');
+	src: url('https://cdn.jsdelivr.net/gh/yoohg1017/test@master/font/AritaDotumMedium.woff') format('woff');
 }
 
 @font-face {
@@ -27,7 +27,7 @@
 	font-weight: 600;
 	font-style: normal;
 	font-display: swap;
-	src: url('https://cdn.jsdelivr.net/gh/yoohg1017/nstay-test@master/font/AritaDotumSemiBold.woff') format('woff');
+	src: url('https://cdn.jsdelivr.net/gh/yoohg1017/test@master/font/AritaDotumSemiBold.woff') format('woff');
 }
 
 @font-face {
@@ -35,5 +35,5 @@
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
-	src: url('https://cdn.jsdelivr.net/gh/yoohg1017/nstay-test@master/font/AritaDotumBold.woff') format('woff');
+	src: url('https://cdn.jsdelivr.net/gh/yoohg1017/test@master/font/AritaDotumBold.woff') format('woff');
 }
